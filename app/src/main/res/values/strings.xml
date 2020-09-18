@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BillTracker</string>
+    <string name="bill_title">%1$s</string>
+    <string name="bill_sponsor">Sponsor: %1$s [D - NY]</string>
+    <string name="bill_text">%1$s</string>
+    <string name="bill_introduced">Introduced</string>
+    <string name="bill_status_at">%1$s</string>
+    <string name="bill_item_image">Bill Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="background_image">Congress Background</string>
+    <string name="num_congress">116th</string>
+    <string name="congress">Congress</string>
+    <string name="bill_item_id">%1$s</string>
+    <string name="search_for_bills_below">Search for bills below.</string>
+</resources>
